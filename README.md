@@ -1,6 +1,6 @@
 # RocketBox - A Full Stack Project App
 
-<img src="https://github.com/eltonlazzarin/real-time-chat/blob/master/screenshot/chatting.png">
+<img src="https://github.com/eltonlazzarin/dropbox-fake-app/blob/master/frontend/frontendBox.gif">
 
 
 # Development environment
