@@ -1,5 +1,7 @@
 # RocketBox - A Full Stack Project App
 
+### Project made with NodeJS, React and React Native
+
 <img src="https://github.com/eltonlazzarin/dropbox-fake-app/blob/master/frontend/frontendBox.gif">
 
 
